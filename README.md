@@ -7,22 +7,20 @@
 ## 💫 About Me:
 
 ```yaml
-name: YOUR_NAME
-located_in: YOUR_LOCATION
-current_job: YOUR_CURRENT_ROLE
+name: Shayan Ahmed
+located_in: Islamabad
 education:
   [
-    "Self-Taught Developer",
-    "YOUR_DEGREE in YOUR_FIELD"
+    "I am currently studying BSCS in National University Of Computer and Emerging Sciences, Islamabad"
   ]
 fields_of_interests:
   [
-    "Web Development",
+    "Cyber Security",
     "Machine Learning",
     "UI/UX",
-    "DevOps"
+    "Networking"
   ]
-hobbies: ["Coding", "Gaming", "YOUR_HOBBY"]
+hobbies: ["Coding", "Gaming"]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -47,7 +45,7 @@ hobbies: ["Coding", "Gaming", "YOUR_HOBBY"]
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shayanop&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🔝 Top Contributed Repositories
@@ -59,16 +57,14 @@ hobbies: ["Coding", "Gaming", "YOUR_HOBBY"]
 
 ## 🌐 Connect With Me:
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/shayan-ahmed-4b164a245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+
+  <a href="mailto:raja.shayan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/shayanop" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -80,17 +76,12 @@ hobbies: ["Coding", "Gaming", "YOUR_HOBBY"]
 
 ## 👀 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shayanop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
-<div align="center">
-  <h3>🧰 Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
-  </a>
-</div>
+
 
 <!-- Animation -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
