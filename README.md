@@ -1,19 +1,19 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shayan+Ahmed;Machine+Learning+Enthusiast...;And+Open+Source+Contributor!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shayan+Ahmed;Cyber+Security+Enthusiast...;" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me:
 
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :(
+I am a Cyber Security and Netowrking Enthausist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 
 
 - :telescope: I’m majoring in CS from FAST NUCES
 
-- :seedling: Exploring CYS nowadays :)
+- :seedling: Exploring Cyber Security nowadays 
 
-- :zap: In my free time, I freelance on fiverr and play video games :)
+- :zap: In my free time, I freelance on fiverr and play video games 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,26 +27,11 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shayanop&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
-## 🔝 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me:
 <div align="center">
