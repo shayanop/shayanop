@@ -6,30 +6,23 @@
 
 ## 💫 About Me:
 
-```yaml
-name: Shayan Ahmed
-located_in: Islamabad
-education:
-  [
-    "I am currently studying BSCS in National University Of Computer and Emerging Sciences, Islamabad"
-  ]
-fields_of_interests:
-  [
-    "Cyber Security",
-    "Machine Learning",
-    "UI/UX",
-    "Networking"
-  ]
-hobbies: ["Coding", "Gaming"]
-```
+
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan :(
+
+- :telescope: I’m majoring in CS from FAST NUCES
+
+- :seedling: Exploring CYS nowadays :)
+
+- :zap: In my free time, I freelance on fiverr and play video games :)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,cpp,git,mongodb,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,git,sql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,figma,tailwind,express,mysql,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=vscode,mysql" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
