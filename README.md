@@ -1,65 +1,77 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+# Shayan Ahmed (shayanop)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shayan+Ahmed;Cyber+Security+Enthusiast...;" alt="Typing SVG" />
-</div>
-
-## 💫 About Me:
-
-
-I am a Cyber Security and Netowrking Enthausist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 
-
-- :telescope: I’m majoring in CS from FAST NUCES
-
-- :seedling: Exploring Cyber Security nowadays 
-
-- :zap: In my free time, I freelance on fiverr and play video games 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,git,sql" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,mysql" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayanop&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🌐 Connect With Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/shayan-ahmed-4b164a245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:raja.shayan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/shayanop" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-## ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 👀 Profile Views
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shayanop&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+> Senior Computer Science student | Cybersecurity & Networking enthusiast  
+> Freelance developer · FAST-NUCES, Islamabad
 
 ---
 
+## About Me
+I’m Shayan — a CS student at FAST-NUCES exploring cybersecurity, systems and full-stack development. I enjoy building practical projects (from embedded systems to web apps) and freelancing on the side. I publish code and small projects that showcase learning-focused, well-documented work.  
+(You can find my GitHub profile and project list on my account.) :contentReference[oaicite:1]{index=1}
 
+---
 
-<!-- Animation -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🔧 Skills & Tech
+- Languages: **JavaScript / TypeScript, Python, C++, Java, HTML/CSS**
+- Web: React, Tailwind, basic full-stack patterns
+- Security / Tools: Puppeteer automation, simple security tooling experiments
+- Embedded / Electronics: Proteus / digital logic projects
+- Other: Game dev with SFML, CLI Java apps
+
+(These skills are reflected across my public repos.) :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🚀 Selected Projects
+
+> Short highlights — click repo names to explore code, demos, and READMEs.
+
+- **Voting-DApp-using-Hardhat-and-React** — A blockchain voting dApp built with Hardhat and a React frontend. (Updated Oct 15, 2025.) :contentReference[oaicite:3]{index=3}  
+- **NimChat** — Lightweight AI chat frontend designed for NVIDIA’s NIM API; supports live Markdown and code blocks. :contentReference[oaicite:4]{index=4}  
+- **dodge-em-in-cpp-using-SFML** — A C++ SFML remake of the Atari game *Dodge 'Em* (includes difficulty levels and powerups). :contentReference[oaicite:5]{index=5}  
+- **Water-Level-Meter** — Digital water level meter project using Proteus / digital logic (electronics project). :contentReference[oaicite:6]{index=6}  
+- **liveness-detector** — Simple Python liveness detector using blink detection (computer vision). :contentReference[oaicite:7]{index=7}
+
+(Full repo list and the latest updates are on my GitHub profile.) :contentReference[oaicite:8]{index=8}
+
+---
+
+## 📦 How to run my projects (general)
+Each project includes its own README with setup instructions. Typical steps you’ll see:
+1. `git clone <repo-url>`  
+2. `cd repo-name`  
+3. Follow language-specific setup:
+   - **Node**: `npm install` → `npm run dev` / `npm start`
+   - **Python**: create venv → `pip install -r requirements.txt` → run script
+   - **C++**: build with your preferred compiler / CMake
+4. Read the repo README for environment variables, hardware notes (for embedded), or demo links.
+
+---
+
+## 💡 Contributing / Collaboration
+- Star/fork the repo and open issues for bugs or enhancements.
+- Pull requests are welcome — keep changes small and add a short description + testing steps.
+- If you want help getting a project running locally, open an issue and I’ll guide you.
+
+---
+
+## 📫 Contact
+- LinkedIn: (link on my GitHub profile) :contentReference[oaicite:9]{index=9}  
+- Email: available on my GitHub profile. :contentReference[oaicite:10]{index=10}
+
+---
+
+## ✨ What I improved (if you paste this into your profile README)
+- Clearer, professional introduction and headline
+- Skills and tech split for quick scanning
+- Curated project highlights with short descriptions and update context
+- Usage & contribution sections so visitors know how to run and contribute
+- Clean, recruiter-friendly layout
+
+---
+
+If you want, I can:
+- Replace the existing `README.md` in a specific repo (I’ll paste the file ready for you to commit), or
+- Generate a profile-style README with badges (GitHub stats, languages) and a short portfolio section for your pinned projects.
+
+Tell me which repo (or your profile repo) you want to update and whether you want a casual or formal tone — I’ll give you the exact file contents ready to commit.  
