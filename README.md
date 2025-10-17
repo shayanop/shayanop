@@ -8,7 +8,7 @@
 
 ## 💫 About Me:
 
-I am a **Cyber Security, Networking, and Smart Contract Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a **Cyber Security, Networking, and Block Chain Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 - 🎓 **Majoring in Computer Science** at FAST NUCES, Islamabad  
 - 🔭 Exploring **Parallel Computing, Blockchain, and System Programming**  
