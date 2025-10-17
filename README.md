@@ -1,7 +1,7 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shayan+Ahmed;Cyber+Security+%26+Enthusiast;Exploring+Block+Chain;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Shayan+Ahmed;Cyber+Security+Enthusiast;Exploring+Block+Chain;" alt="Typing SVG" />
 </div>
 
 ---
